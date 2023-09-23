@@ -1,0 +1,1 @@
+[foo, 49, 49, Sulfuras, Hand of Ragnaros, 100, 10, Sulfuras, Hand of Ragnaros, 5, 5]
